@@ -1,0 +1,20 @@
+button {
+    color: #FFFFFF;
+    font-size: 18;
+    padding: 5;
+    border-radius: 0;
+}
+.digit_btn {
+    background: #585858;
+}
+.action_btn {
+    background: #FF8800;
+}
+
+#screen {
+    background: #585858;
+    color: #FFFFFF;
+    font-size: 26;
+    border-width: 0;
+    border-radius: 0;
+}
